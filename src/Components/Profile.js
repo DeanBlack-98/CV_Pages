@@ -15,7 +15,8 @@ export default class Profile extends Component{
                         IT Student
                     </p>
                     <p>
-                    <a target="_blank" href="https://drive.google.com/file/d/1dpNzgnVE2vaP4iOPZs5FskqSbRz0-XZs/view?usp=sharing">Download CV</a>
+                    <a target="_blank" href="https://drive.google.com/file/d/17FP-rxhN1TTuMQTaaEhWvE6-JVgB2iBA/view?usp=sharing">Download CV</a>
+                    <a target="_blank" href="https://drive.google.com/file/d/1lovKDJcr2XOR8l2oraRuBopt638mnYSv/view?usp=sharing">Download Academic Record</a>
                     </p>
                 </div>
             </div>
