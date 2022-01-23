@@ -32,6 +32,7 @@ export default class Education extends Component{
                                         <p>Operating Systems: 70%,</p>
                                         <p>Artificial Intelligence: 66%,</p>
                                         <p>Decision Support Systems 2: 63%</p>
+                                        <p>IT Developments: 64%</p>
                                     </p>
                                 </blockquote>
                             </div>
