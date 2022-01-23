@@ -11,7 +11,7 @@ import About from './Components/About';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ''}>
       <Routes>
         <Route path ="/" element={<Home />} />
         <Route path= "/skills" element={<Skills />}/>
