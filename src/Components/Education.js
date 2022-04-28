@@ -13,7 +13,7 @@ export default class Education extends Component{
                         <div className = "row">
                             <div className = "col s12 m4 l4 xl4">
                                 <p className = "teal year-exp white-text">
-                                    <strong>2018 to current</strong>
+                                    <strong>Jan 2018 to Dec 2021</strong>
                                 </p>
                             </div>
                             <div className = "col s12 m8 l8 xl8">
@@ -27,7 +27,7 @@ export default class Education extends Component{
                                         <p className = "white-text"> Strong</p>
                                         <p>Database: 61%,</p>
                                         <p>Decision Support Systems 1: 65%,</p>
-                                        <p>Computor networks: 69%,</p>
+                                        <p>Computer networks: 69%,</p>
                                         <p>Advance Databases: 63%,</p>
                                         <p>Operating Systems: 70%,</p>
                                         <p>Artificial Intelligence: 66%,</p>
